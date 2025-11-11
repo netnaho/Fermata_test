@@ -1,0 +1,8 @@
+{
+  "name": "Selam Navigation",
+  "description": "An Amharic voice-controlled navigation app to help you find your way, just by speaking. This app uses Gemini for speech-to-text and text-to-speech in Amharic.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
